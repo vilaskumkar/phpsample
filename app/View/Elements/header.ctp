@@ -39,7 +39,9 @@
                             $aboutClass = '';
                             $contactClass = '';
                             $homeClass='';
-                            $activeStatus='home';
+                            if (!isset($activeStatus)) {
+                                $activeStatus = '';
+                            }
                             if ($activeStatus == 'home') {
                             $homeClass = 'current-page';
                             }

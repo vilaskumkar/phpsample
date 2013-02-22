@@ -22,20 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.ctp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.ctp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/View/Elements/header.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="20" selection-start="4862" selection-end="4862" vertical-scroll-proportion="-18.538462">
+            <state line="43" column="29" selection-start="2430" selection-end="2430" vertical-scroll-proportion="0.6088957">
               <folding>
-                <marker date="1361544650042" expanded="true" signature="737:2645" placeholder="..." />
-                <marker date="1361544650042" expanded="true" signature="805:2645" placeholder="..." />
-                <marker date="1361544650042" expanded="true" signature="2583:2645" placeholder="..." />
-                <marker date="1361544650042" expanded="true" signature="3072:3134" placeholder="..." />
-                <marker date="1361544650042" expanded="true" signature="3579:3641" placeholder="..." />
-                <marker date="1361544650042" expanded="true" signature="4074:4136" placeholder="..." />
-                <marker date="1361544650042" expanded="true" signature="4074:4146" placeholder="..." />
-                <marker date="1361544650042" expanded="true" signature="4568:4630" placeholder="..." />
-                <marker date="1361544650042" expanded="true" signature="4568:4640" placeholder="..." />
+                <marker date="1361545654091" expanded="true" signature="737:2734" placeholder="..." />
+                <marker date="1361545654091" expanded="true" signature="805:2734" placeholder="..." />
+                <marker date="1361545654091" expanded="true" signature="2672:2734" placeholder="..." />
+                <marker date="1361545654091" expanded="true" signature="3161:3223" placeholder="..." />
+                <marker date="1361545654091" expanded="true" signature="3668:3730" placeholder="..." />
+                <marker date="1361545654091" expanded="true" signature="4163:4225" placeholder="..." />
+                <marker date="1361545654091" expanded="true" signature="4163:4235" placeholder="..." />
+                <marker date="1361545654091" expanded="true" signature="4657:4719" placeholder="..." />
+                <marker date="1361545654091" expanded="true" signature="4657:4729" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -90,10 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ctp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.ctp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/View/Htmls/index.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="18" selection-start="2650" selection-end="2650" vertical-scroll-proportion="0.59969324">
+            <state line="50" column="18" selection-start="2650" selection-end="2650" vertical-scroll-proportion="-15.038462">
               <folding />
             </state>
           </provider>
@@ -154,8 +154,8 @@
         <option value="$PROJECT_DIR$/app/View/Htmls/contact.ctp" />
         <option value="$PROJECT_DIR$/app/Controller/AppController.php" />
         <option value="$PROJECT_DIR$/app/Controller/HtmlsController.php" />
-        <option value="$PROJECT_DIR$/app/View/Elements/header.ctp" />
         <option value="$PROJECT_DIR$/app/webroot/js/scripts.js" />
+        <option value="$PROJECT_DIR$/app/View/Elements/header.ctp" />
       </list>
     </option>
   </component>
@@ -457,7 +457,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -641,23 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/View/Elements/header.ctp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="20" selection-start="4862" selection-end="4862" vertical-scroll-proportion="-18.538462">
-          <folding>
-            <marker date="1361544650042" expanded="true" signature="737:2645" placeholder="..." />
-            <marker date="1361544650042" expanded="true" signature="805:2645" placeholder="..." />
-            <marker date="1361544650042" expanded="true" signature="2583:2645" placeholder="..." />
-            <marker date="1361544650042" expanded="true" signature="3072:3134" placeholder="..." />
-            <marker date="1361544650042" expanded="true" signature="3579:3641" placeholder="..." />
-            <marker date="1361544650042" expanded="true" signature="4074:4136" placeholder="..." />
-            <marker date="1361544650042" expanded="true" signature="4074:4146" placeholder="..." />
-            <marker date="1361544650042" expanded="true" signature="4568:4630" placeholder="..." />
-            <marker date="1361544650042" expanded="true" signature="4568:4640" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/webroot/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="137" column="18" selection-start="4047" selection-end="4047" vertical-scroll-proportion="0.0">
@@ -669,8 +652,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/View/Htmls/index.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="18" selection-start="2650" selection-end="2650" vertical-scroll-proportion="0.59969324">
+        <state line="50" column="18" selection-start="2650" selection-end="2650" vertical-scroll-proportion="-15.038462">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/header.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="29" selection-start="2430" selection-end="2430" vertical-scroll-proportion="0.6088957">
+          <folding>
+            <marker date="1361545654091" expanded="true" signature="737:2734" placeholder="..." />
+            <marker date="1361545654091" expanded="true" signature="805:2734" placeholder="..." />
+            <marker date="1361545654091" expanded="true" signature="2672:2734" placeholder="..." />
+            <marker date="1361545654091" expanded="true" signature="3161:3223" placeholder="..." />
+            <marker date="1361545654091" expanded="true" signature="3668:3730" placeholder="..." />
+            <marker date="1361545654091" expanded="true" signature="4163:4225" placeholder="..." />
+            <marker date="1361545654091" expanded="true" signature="4163:4235" placeholder="..." />
+            <marker date="1361545654091" expanded="true" signature="4657:4719" placeholder="..." />
+            <marker date="1361545654091" expanded="true" signature="4657:4729" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
